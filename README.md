@@ -2,6 +2,7 @@ The College Fees Management System is a pivotal software application designed to
 This system efficiently handles the collection, recording, and organization of fees, providing an integrated platform for administrators, students, and staff to manage financial transactions.
 
 Technology Used:
+
 1.Backend Development: 
 •	PHP: PHP is well-suited for server-side scripting and can interact with databases to handle dynamic content generation.
 
